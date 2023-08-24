@@ -2,6 +2,9 @@ This game was made for the ITCS 4231 Class
 
 It is a 3d platformer like Mario 64 or Banjo Kazooie.
 
+Here is a video of the game in action
+https://drive.google.com/file/d/1hcv0tA5o3SxNFAT0S5FeFxI0a7tVZwZ4/view?usp=sharing
+
 Controls:
 
 WASD / Left Joystick : Move
